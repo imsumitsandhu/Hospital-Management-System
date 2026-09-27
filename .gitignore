@@ -1,0 +1,24 @@
+# Compiled Java class files
+*.class
+
+# Package/archive files (if you ever build a jar)
+*.jar
+*.war
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+out/
+target/
+bin/
